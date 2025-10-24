@@ -5,8 +5,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0da667a3-fd5b-4e75-898a-701a0ce1cfdd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/EjerciciosTema2(5al10)/Ejercicio6/src/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EjerciciosTema2(5al10)/Ejercicio6/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EjerciciosTema2(5al10)/Ejercicio7/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EjerciciosTema2(5al10)/Ejercicio7/src/Presentacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios Tema2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios Tema2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios Tema2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios Tema2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios Tema2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios Tema2/Ejercicios Tema2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/.idea/EjerciciosTema1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio1/Ejercicio1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio1/Ejercico1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio2/Ejercicio2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio3/Ejercicio3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio4/Ejercicio4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio4/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio5/Ejercicio5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosTema1/Ejercicio5/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,21 +72,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "FerminGarridoMartinDAM"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;FerminGarridoMartinDAM&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/FerminGarridoMartinDAM/ProgamacionDAMEntregas.git",
-    "accountId": "bcec0373-4b2e-4eb8-9824-96f6e51f78b6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/FerminGarridoMartinDAM/ProgamacionDAMEntregas.git&quot;,
+    &quot;accountId&quot;: &quot;bcec0373-4b2e-4eb8-9824-96f6e51f78b6&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="33qLsOhckNy7znhVLSfFjZS88hY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -50,7 +99,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/ernoc/OneDrive/Escritorio/INTENTO DE JUNTAR TODAS LAS CARPETAS/DAM FP PROMETEO THEPOWER/TEMARIO FP/Progamacion/ProgramacionDAM/ProgamacionDAMEntregas",
+    "last_opened_file_path": "C:/Users/ernoc/OneDrive/Escritorio/INTENTO DE JUNTAR TODAS LAS CARPETAS/DAM FP PROMETEO THEPOWER/TEMARIO FP/Progamacion/ProgamacionDAMEntregas",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
